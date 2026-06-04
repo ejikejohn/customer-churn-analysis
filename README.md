@@ -92,5 +92,3 @@ python python/churn_pipeline.py
 <img width="707" height="303" alt="image" src="https://github.com/user-attachments/assets/cb2908d0-a354-49a4-bc2c-1ff892aa8598" />
 <img width="688" height="203" alt="image" src="https://github.com/user-attachments/assets/77a57cd4-375d-480f-be31-071599ad5a26" />
 
-[Linkedin](https://www.linkedin.com/in/marshal-favour/)
-[GitHub](https://github.com/ejikejohn)
